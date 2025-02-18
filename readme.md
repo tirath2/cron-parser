@@ -22,7 +22,7 @@ A command-line application to parse and expand cron strings. This application ha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/cron-parser.git
+   git clone https://github.com/tirath2/cron-parser.git
    cd cron-parser
     ```
 2. Install dependencies:
